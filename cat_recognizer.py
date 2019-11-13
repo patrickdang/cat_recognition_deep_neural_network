@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import pickle
 from scipy import ndimage
 from dnn_app_utils import load_data, predict
-from cat_dnn_model import *
+
 
 train_x_orig, train_y, test_x_orig, test_y, classes = load_data()
 num_px = train_x_orig.shape[1]
