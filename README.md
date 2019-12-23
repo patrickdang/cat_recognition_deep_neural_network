@@ -6,7 +6,7 @@ Cat image recognition implementing 4 layer deep neural network only using numpy
 <li>Test set: 50 pictures (64 by 64 pixels) of cat images.</li>
 </ul>
 
-<p align="center"><img src="https://user-images.githubusercontent.com/24521991/32639503-3b420966-c5ff-11e7-9b5a-8f4ee7bb2d8b.jpg" width="400"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/14893642/71337961-8ee1f200-2513-11ea-8e44-343533e6d36f.jpg" width="400"></p>
 
 We implement a <b>4 layers deep neural network</b> just using numpy. Notice images resolution is lowered to 64 x 64 pixels before putting into the network. 
 <p align="center"><img src="https://user-images.githubusercontent.com/24521991/32640545-17d2a6fc-c604-11e7-84ab-d1b559cb7bee.png" width="700"></p>
